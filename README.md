@@ -26,7 +26,7 @@ ilerleyip en yüksek puanı elde etmektir.
 ## 🚀 Nasıl Çalıştırılır
 
 1.  Proje klasörünü bilgisayarına indir.
-2.  Visual Studio ile `FlappyBird.sln` dosyasını aç.
+2.  Visual Studio ile `FlappyBirdGame.sln` dosyasını aç.
 3.  **Start / Run (F5)** ile oyunu çalıştır.
 
 ## 🎮 Oynanış
